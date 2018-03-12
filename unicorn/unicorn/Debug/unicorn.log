@@ -1,0 +1,11 @@
+﻿  unicorn.cpp
+c:\users\houjingyi\downloads\unicorn\unicorn\unicorn\unicorn.cpp(68): warning C4244: “初始化”: 从“uint64_t”转换到“uint32_t”，可能丢失数据
+c:\users\houjingyi\downloads\unicorn\unicorn\unicorn\unicorn.cpp(83): warning C4244: “初始化”: 从“uint64_t”转换到“uint32_t”，可能丢失数据
+c:\users\houjingyi\downloads\unicorn\unicorn\unicorn\unicorn.cpp(103): warning C4244: “初始化”: 从“uint64_t”转换到“uint32_t”，可能丢失数据
+c:\users\houjingyi\downloads\unicorn\unicorn\unicorn\unicorn.cpp(113): warning C4244: “初始化”: 从“uint64_t”转换到“uint32_t”，可能丢失数据
+c:\users\houjingyi\downloads\unicorn\unicorn\unicorn\unicorn.cpp(122): warning C4244: “初始化”: 从“uint64_t”转换到“uint32_t”，可能丢失数据
+c:\users\houjingyi\downloads\unicorn\unicorn\unicorn\unicorn.cpp(141): warning C4244: “初始化”: 从“uint64_t”转换到“uint32_t”，可能丢失数据
+c:\users\houjingyi\downloads\unicorn\unicorn\unicorn\unicorn.cpp(149): warning C4244: “初始化”: 从“uint64_t”转换到“uint32_t”，可能丢失数据
+c:\users\houjingyi\downloads\unicorn\unicorn\unicorn\unicorn.cpp(155): warning C4244: “参数”: 从“uint64_t”转换到“uint32_t”，可能丢失数据
+  unicorn.vcxproj -> C:\Users\houjingyi\Downloads\unicorn\unicorn\Debug\unicorn.exe
+  unicorn.vcxproj -> C:\Users\houjingyi\Downloads\unicorn\unicorn\Debug\unicorn.pdb (Full PDB)
